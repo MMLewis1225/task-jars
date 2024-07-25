@@ -5,29 +5,39 @@ TaskJars is a mobile task management application designed to assist users who st
 TaskJars was a semester-long group project for CS 4720 (Mobile Application Development).
 
 ## Screenshots
-*Home Screen*
 
-*Jars screen*
+### Tabs
 
-*Activity Screen*
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="images/HomeScreen.jpeg" alt="Home Screen" width="200" style="flex: 1;"/>
+    <img src="images/JarsScreen.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
+    <img src="images/ActivityScreen.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
+    <img src="images/SettingsScreen.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
+</div>
 
-*Settings Screen*
+### Working on a task
 
-*Add task*
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="images/StartTask.jpeg" alt="Home Screen" width="200" style="flex: 1;"/>
+    <img src="images/RandomTask.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
+    <img src="images/ActiveTask.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
+    <img src="images/ExitTask.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
+    <img src="images/MinutesComplete.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
+</div>
 
-*set goal*
+### Completed daily goal
 
-*View tasks*
-
-*Active task, finished task*
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="images/EditDailyGoalScreen.jpeg" alt="Home Screen" width="200" style="flex: 1;"/>
+    <img src="images/EditDailyGoalScreen.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
+    <img src="images/FullJars.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
+    <img src="images/ExitTask.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
+    <img src="images/ActivityScreenFinished.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
+</div>
 
 ## Demo Video
 
-
-https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share_link
-
-[![TaskJars Demo](path/to/demo_thumbnail.png)](https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share_link)
-
+[TaskJars Demo](https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share_link)
 
 ## Requirements
 
@@ -41,6 +51,7 @@ https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share
 ### Running on Android Emulator
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/MMLewis1225/task-jars.git
    cd task-jars
@@ -51,6 +62,7 @@ https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share
    cd todo
    ```
 3. **Install dependencies:**
+
    ```bash
    npm install
    ```
@@ -66,7 +78,7 @@ https://drive.google.com/file/d/1uevMSjDohk7BzSxJioWvYGzlaYmbmvec/view?usp=share
 To run the app from the APK file:
 
 1. **Download the APK file:**
-   You can download the APK file from [here](https://drive.google.com/file/d/1nBvAQUZW8t3x93Un-HG05SMwLJKoyVci/view?usp=sharing). 
+   You can download the APK file from [here](https://drive.google.com/file/d/1nBvAQUZW8t3x93Un-HG05SMwLJKoyVci/view?usp=sharing).
 
 2. **Install the APK on an emulator:**
    If you're using an emulator, you can drag the APK file into the emulator window to install it.
