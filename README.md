@@ -15,24 +15,24 @@ TaskJars was a semester-long group project for CS 4720 (Mobile Application Devel
     <img src="images/SettingsScreen.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
 </div>
 
-### Working on a task
+### Completing on a task
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+   <img src="images/AddTask.jpeg" alt="Add Task Screen" width="200" style="flex: 1;"/>
     <img src="images/StartTask.jpeg" alt="Home Screen" width="200" style="flex: 1;"/>
     <img src="images/RandomTask.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
-    <img src="images/ActiveTask.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
-    <img src="images/ExitTask.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
-    <img src="images/MinutesComplete.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
+    <img src="images/ActiveTaskScreen.jpeg" alt="Active Task screen" width="200" style="flex: 1;"/>
+    <img src="images/ExitTask.jpeg" alt="Exit Task Screen" width="200" style="flex: 1;"/>
+        <img src="images/MinutesJarFill.jpeg" alt="Mintutes Jar Filled" width="200" style="flex: 1;"/>
+    <img src="images/MinutesComplete.jpeg" alt="Minutes Task Completed" width="200" style="flex: 1;"/>
 </div>
 
 ### Completed daily goal
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="images/EditDailyGoalScreen.jpeg" alt="Home Screen" width="200" style="flex: 1;"/>
-    <img src="images/EditDailyGoalScreen.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
-    <img src="images/FullJars.jpeg" alt="Jars screen" width="200" style="flex: 1;"/>
-    <img src="images/ExitTask.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
-    <img src="images/ActivityScreenFinished.jpeg" alt="Settings Screen" width="200" style="flex: 1;"/>
+    <img src="images/EditDailyGoalScreen.jpeg" alt="Edit Goal Screen" width="200" style="flex: 1;"/>
+    <img src="images/FullJars.jpeg" alt="Full Jars" width="200" style="flex: 1;"/>
+    <img src="images/ActivityScreenFinished.jpeg" alt="Activity Screen" width="200" style="flex: 1;"/>
 </div>
 
 ## Demo Video
